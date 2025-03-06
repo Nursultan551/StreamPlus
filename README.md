@@ -164,8 +164,7 @@ I am not giving deployment instructions since it's not a production ready applic
 ### Areas for Improvement
 
 - **Dynamic fields based on country selected:**  
-  - Implement inline, real-time error feedback in each component to further improve user experience.
-  - Consider adding toast notifications or modal dialogs for critical messages (e.g., form submission success or failure).
+  - Couldn’t implement due to time constraints.
 
 - **Enhanced Error Handling and User Feedback:**  
   - Implement inline, real-time error feedback in each component to further improve user experience.
