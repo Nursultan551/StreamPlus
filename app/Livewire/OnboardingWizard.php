@@ -94,6 +94,8 @@ class OnboardingWizard extends Component
         }
         session()->forget('onboardingData');
         session()->flash('message', 'Onboarding completed successfully.');
+
+        // TO DO: Dispatch a browser event for redirection.
     }
 
     public function render()
