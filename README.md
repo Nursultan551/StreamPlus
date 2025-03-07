@@ -45,7 +45,7 @@ This application is a multi-step onboarding wizard built with Laravel, Livewire,
 
    ```bash
    git clone https://github.com/Nursultan551/StreamPlus.git
-   cd streamplus-onboarding
+   cd StreamPlus
    ```
 
 2. **Install Composer Dependencies:**
